@@ -1,4 +1,4 @@
-## Tikol4Life Checker Source
+## RRnoft ISNIQI Checker
 
 Changelogs:
 - SK Live and ChatID can now be stored as cookies.
